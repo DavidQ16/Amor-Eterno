@@ -5,10 +5,10 @@
 
 const CONFIG = {
   // Número de WhatsApp con indicativo (57 + 10 dígitos, sin espacios ni +)
-  whatsapp: "573001112233",
+  whatsapp: "573023252274",
 
   // Contraseña del panel de administración
-  adminPassword: "amoreterno2025",
+  adminPassword: "Admin1628.",
 
   // Datos del repositorio en GitHub (para el panel admin)
   githubUser: "davidq16",
@@ -16,8 +16,8 @@ const CONFIG = {
 
   // Redes sociales (deja "" si no quieres mostrar)
   redes: {
-    tiktokNiditoDeAmor: "https://www.tiktok.com/@niditodeamor",
-    tiktokLumina: "https://www.tiktok.com/@lumina"
+    tiktokNiditoDeAmor: "https://www.tiktok.com/@nidito.deamoor",
+    tiktokLumina: "https://www.tiktok.com/@lumin.a4"
   },
 
   // Zonas de domicilio. costo: 0 = gratis
@@ -31,5 +31,5 @@ const CONFIG = {
   metodosPago: ["Nequi", "Daviplata", "PSE", "Volt", "Efectivo", "Contraentrega"],
 
   // Frase del footer
-  fraseFamiliar: "Hecho con cariño, en familia, para tu familia."
+  fraseFamiliar: "Hecho con cariño."
 };
